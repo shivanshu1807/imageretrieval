@@ -18,7 +18,7 @@ function ImageSlider() {
     autoplay: true,
     autoplaySpeed: 3000,
   };
-  const images = [image1, image2, image3, image4, image5];
+  const images = [image1, image2, image3, image4, image5];//
 
   return (
     <div className="image-slider">
